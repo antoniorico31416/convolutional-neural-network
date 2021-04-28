@@ -1,6 +1,6 @@
 # Convolutional Neural Network
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/as-seen-on-tv.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/) [![forthebadge](https://forthebadge.com/images/badges/as-seen-on-tv.svg)]()
 
 ## Description
 **Definition:** A CNN is a class of deep neural network, most commonly applied to analyze images. It's common used in visual recognition systems. 
